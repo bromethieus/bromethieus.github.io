@@ -16,6 +16,7 @@ html {
 }
 
 body {
+	margin: 1.5em auto;
 	width: 66%;
 	padding: 15px;
 	background: center;
