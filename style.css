@@ -16,6 +16,7 @@ html {
 }
 
 body {
+	width: 55%;
 	background-color: #D97F09;
 	border: solid;
 	border-color: silver;
