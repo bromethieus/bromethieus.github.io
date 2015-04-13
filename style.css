@@ -7,16 +7,18 @@ h2 {
 	font-size: 110%;
 }
 p {
-  text-align: center;
-  width: 600;
+  	text-align: center;
+  	width: 600;
 }
 
 html {
-	background-color: #6D0BD6;
+	background-color: #8F02C5;
 }
 
 body {
-	width: 55%;
+	width: 66%;
+	padding: 15px;
+	background: center;
 	background-color: #D97F09;
 	border: solid;
 	border-color: silver;
